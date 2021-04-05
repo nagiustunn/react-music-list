@@ -1,3 +1,7 @@
+## About Form Project
+I tried to users must be able to obtain lists of albums and playlists that match the
+parameters of their searches. Since I am new to React, I did not get the result I wanted. So my project does not work the way I want. But I got a lot of errors while doing this. I made mistakes again while trying to fix these errors and was the last time I was able to do so. The application is still not working due to errors, but I left it that way for now because there is a time limit. I just wanted to upload it here and show it to you.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
